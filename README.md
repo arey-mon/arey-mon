@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arey-mon
+                                        👋 Hi, I’m @arey-mon
 - 🌱 I’m currently learning C @42.Paris
 - 👀 Also, Javascript, HTML && CSS @FreeCodeCamp
 
