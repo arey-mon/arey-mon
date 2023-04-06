@@ -1,5 +1,7 @@
                                         👋 Hi, I’m @arey-mon
-- 🌱 I’m currently learning C @42.Paris
+- 🌱 Ex-Student @42.Paris: C, PHP, Docker, Kubernetes, SQL...
+- ReactJS, Node, Express
+- Building Web3 apps, audio players, web2 applications...
 - 👀 Also, Javascript, HTML && CSS @FreeCodeCamp
 
 <!---
