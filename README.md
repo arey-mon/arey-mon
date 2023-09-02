@@ -3,7 +3,7 @@
 - ReactJS, Node, Express
 - Building Web3 apps, audio players, web2 applications...
 - 👀 Also, Javascript, HTML && CSS @FreeCodeCamp
-
+- 👩‍💻 Chief of project for madeofsound.co, React, nodeJS, Devops, SQL, firebase...
 <!---
 arey-mon/arey-mon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
